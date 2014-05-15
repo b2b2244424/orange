@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">桔子路由器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="average_net_rate">平均网速</string>
+    <string name="kb">KB</string>
+    <string name="minute">分钟</string>
+    <string name="runtime">运行时间</string>
+    <string name="file_manage">文件管理</string>
+    <string name="router_setting">路由器设置</string>
+    <string name="sms_contact_manage">短信联系人管理</string>
+    <string name="all_ok">恭喜，一切正常</string>
+
+</resources>
