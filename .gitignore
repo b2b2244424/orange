@@ -3,4 +3,4 @@ gen/
 .settings/
 .classpath
 .project.properties
-lint
+lint.xml
